@@ -1,0 +1,6 @@
+{
+  "name": "VMC Protocol Studio",
+  "description": "Professional Virtual Motion Capture (VMC) protocol suite for real-time 3D humanoid motion tracking, OSC streaming, device calibration, blendshape control, and packet inspection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
